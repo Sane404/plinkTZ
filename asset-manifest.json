@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plinkTZ/static/css/main.d17bd8d9.chunk.css",
+    "main.js": "/plinkTZ/static/js/main.e13802ac.chunk.js",
+    "main.js.map": "/plinkTZ/static/js/main.e13802ac.chunk.js.map",
+    "runtime-main.js": "/plinkTZ/static/js/runtime-main.4c73ae4b.js",
+    "runtime-main.js.map": "/plinkTZ/static/js/runtime-main.4c73ae4b.js.map",
+    "static/js/2.e2d368b8.chunk.js": "/plinkTZ/static/js/2.e2d368b8.chunk.js",
+    "static/js/2.e2d368b8.chunk.js.map": "/plinkTZ/static/js/2.e2d368b8.chunk.js.map",
+    "static/js/3.c223c91d.chunk.js": "/plinkTZ/static/js/3.c223c91d.chunk.js",
+    "static/js/3.c223c91d.chunk.js.map": "/plinkTZ/static/js/3.c223c91d.chunk.js.map",
+    "index.html": "/plinkTZ/index.html",
+    "static/css/main.d17bd8d9.chunk.css.map": "/plinkTZ/static/css/main.d17bd8d9.chunk.css.map",
+    "static/js/2.e2d368b8.chunk.js.LICENSE.txt": "/plinkTZ/static/js/2.e2d368b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c73ae4b.js",
+    "static/js/2.e2d368b8.chunk.js",
+    "static/css/main.d17bd8d9.chunk.css",
+    "static/js/main.e13802ac.chunk.js"
+  ]
+}
