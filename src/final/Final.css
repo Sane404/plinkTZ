@@ -1,0 +1,19 @@
+.final {
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.final .wrap {
+  display: flex;
+  gap: 20px;
+  animation: fadeIn 0.5s forwards;
+}
+.final.fade {
+  animation: fadeOut 0.5s forwards;
+}
+.final button {
+  margin: 0 auto;
+  display: block;
+  font-size: 18px;
+  padding: 5px;
+}
